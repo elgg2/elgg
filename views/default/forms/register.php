@@ -13,9 +13,7 @@ $password = $password2 = '';
 $username = get_input('u');
 $email = get_input('e');
 $name = get_input('u');
-$fname = get_input('u');
-$mname = get_input('u');
-$lname = get_input('u');
+
 
 if (elgg_is_sticky_form('register')) {
 	extract(elgg_get_sticky_values('register'));
