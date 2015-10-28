@@ -8,6 +8,7 @@
  * @URL http://elgghacks.com
  * @copyright http://o.wzm.me/totemz/v/2015/elgg-hacks
  */
+ //satrio singgih wicaksono
 
 $password = $password2 = '';
 $username = get_input('u');
